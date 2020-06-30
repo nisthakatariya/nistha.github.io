@@ -1,0 +1,28 @@
+body{
+	background-image:url("file:///Users/ayush/Desktop/down.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+h1{
+	
+	text-align: center;
+	color: #FFFFFF;
+}
+h3{
+	text-align: center;
+	color: #FFFFFF
+}
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 400px;
+    border: 10px solid black;
+
+}
+p{
+	text-align: center;
+	color: #FFFF00	
+}
